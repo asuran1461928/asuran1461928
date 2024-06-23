@@ -1,6 +1,4 @@
-Sure, here's your updated README file with your provided details:
 
----
 
 <img src="https://github.com/asuran1461928/asuran1461928/assets/109903475/f3fd8fa9-d2e0-479c-822f-96b059b7428a" height="400" width="1200" alt="Chill Mario 2023 ver_, Pixel Jeff" />
 
@@ -143,6 +141,3 @@ Sure, here's your updated README file with your provided details:
   <li>Hack the Box Competition (2022)</li>
 </ul>
 
----
-
-This updated README file includes your personal information, education, technical experience, skills, and projects. You can further personalize it as needed.
