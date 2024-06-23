@@ -1,8 +1,7 @@
 
 ---
 
-![Gamer Room_ Cyberpunk, ExceptRea](https://github.com/asuran1461928/asuran1461928/assets/109903475/0505749e-4327-439d-87bc-736feae5ddc0)
-
+<img src="https://github.com/asuran1461928/asuran1461928/assets/109903475/5b47f3f7-a966-46e3-88f8-e4580cb14975" height="200" alt="Mastermind, Pixel Jeff" />
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
