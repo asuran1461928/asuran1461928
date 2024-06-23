@@ -1,7 +1,9 @@
 
+
 ---
 
-<img src="https://github.com/asuran1461928/asuran1461928/assets/109903475/5b47f3f7-a966-46e3-88f8-e4580cb14975" height="200" alt="Mastermind, Pixel Jeff" />
+![Chill Mario 2023 ver_, Pixel Jeff](https://github.com/asuran1461928/asuran1461928/assets/109903475/f3fd8fa9-d2e0-479c-822f-96b059b7428a)
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
